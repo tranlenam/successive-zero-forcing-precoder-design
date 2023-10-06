@@ -1,0 +1,12 @@
+metadata_version: 1
+name: An Iterative Precoder Design for Successive Zero-Forcing Precoded Systems
+description: Simulation code for "An Iterative Precoder Design for Successive Zero-forcing
+  Precoded Systems," IEEE Commun. Lett., vol. 16, no. 1, pp. 16-18, Jan. 2012 by Le-Nam
+  Tran
+authors:
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie

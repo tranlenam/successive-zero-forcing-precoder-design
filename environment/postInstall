@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e
+curl -s http://web.cvxr.com/cvx/cvx-rd.tar.gz | tar zx
+#curl -L https://download.mosek.com/stable/9.3.22/mosektoolslinux64x86.tar.bz2 | tar xj
+ 
+#matlab -nodisplay -r "addpath /mosek/9.3/toolbox/r2015a; addpath /cvx; savepath"
+matlab -nodisplay -r "cd cvx; cvx_setup();savepath"
